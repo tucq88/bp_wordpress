@@ -1,0 +1,32 @@
+{
+  "name": "random-project-name",
+  "description": "simple-description",
+  "main": "gulpfile.js",
+  "authors": [
+    "Author Name"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "frontend",
+    "gulp",
+    "scss"
+  ],
+  "homepage": "<git-repo-url>",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "icomoon-bower": "icomoon#~0.1.0",
+    "slick-carousel": "slick.js#~1.6.0",
+    "scrollreveal": "~3.1.4",
+    "gmaps": "^0.4.24",
+    "jquery-sticky": "sticky-js#^1.0.3"
+  }
+}
