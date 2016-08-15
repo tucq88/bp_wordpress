@@ -1,0 +1,14 @@
+Admin Menu Editor
+Advanced Custom Fields PROs
+Custom Post Type UI
+Disable Comments
+iThemes Security
+Regenerate Thumbnails
+TinyMCE Advanced
+WP-Mail-SMTP
+WPML Multilingual CMS
+WPML Media
+Yoast SEO
+
+
+
